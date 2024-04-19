@@ -1,4 +1,4 @@
-# Application de Cartes Pokémon
+# Cartes Pokémon
 Ce projet est une application de cartes Pokémon développée en utilisant HTML, CSS, JavaScript et l'API PokeAPI. Les utilisateurs peuvent effectuer des recherches en écrivant le nom des Pokémon.
 
 ## Fonctionnalités
