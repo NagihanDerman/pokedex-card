@@ -12,4 +12,4 @@ Ouvrez le fichier HTML avec un navigateur web.
 Effectuez une recherche en écrivant le nom d'un Pokémon dans la boîte de recherche.
 
 ## Gif
-<img src="" />
+<img src="pokedex.gif" />
